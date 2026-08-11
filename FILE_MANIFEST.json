@@ -1,0 +1,647 @@
+[
+  {
+    "path": ".gitignore",
+    "bytes": 95,
+    "sha256": "470a3b8ce458b5c8d9a8b7fc1e13f539aefc86fdd1fd089ec118228435dec092"
+  },
+  {
+    "path": "00_start_here/GITHUB_UPLOAD_GUIDE.md",
+    "bytes": 1205,
+    "sha256": "088e81fa5ea1137fbbdb73e7e5ea137bc319bcbc12017c01d417b5fa70a2bd28"
+  },
+  {
+    "path": "00_start_here/KEY_FINDINGS.md",
+    "bytes": 1236,
+    "sha256": "4c531977e191ff1a4f66ede4c7d7d9b12008087d1654f85ab6c4c6a020ef7a99"
+  },
+  {
+    "path": "00_start_here/START_HERE.md",
+    "bytes": 945,
+    "sha256": "3bf8d36e9e1ecbcdbf9460de92a73e6760778a4c633fc47eb060150c0c2c243a"
+  },
+  {
+    "path": "01_executive/Community_Cricket_Opportunity_Executive_Brief_With_GitHub_Link_Placeholder.docx",
+    "bytes": 38979,
+    "sha256": "d8d2d9f5efc08390bcc6c932372592242d7a8e2cb9ae0a98a91f2ac0c3ce2c24"
+  },
+  {
+    "path": "01_executive/Community_Cricket_Opportunity_Executive_Brief_With_GitHub_Link_Placeholder.pdf",
+    "bytes": 60961,
+    "sha256": "35ce21a2000b47a0aceafdb4f0be9d2f80fad53b88d0e1413d77d338a013d624"
+  },
+  {
+    "path": "01_executive/Community_Cricket_Opportunity_One_Page_Executive_Brief.docx",
+    "bytes": 38922,
+    "sha256": "7a1fa8c77015bfe4f7833764763da42bc7892e5019019cda0113242a36726c42"
+  },
+  {
+    "path": "01_executive/Community_Cricket_Opportunity_One_Page_Executive_Brief.pdf",
+    "bytes": 60597,
+    "sha256": "92dd3a3fd84f146c82035a04246c3b07aa02184cf1cfed6a3a6d0860c3f18d3c"
+  },
+  {
+    "path": "01_executive/README.md",
+    "bytes": 509,
+    "sha256": "e9817221540ac65d5baa819472aca939c08ac4b2159ad3d2ee75ae737e4673c5"
+  },
+  {
+    "path": "02_final_report/Community_Cricket_Opportunity_Final_Analytical_Report.docx",
+    "bytes": 1071891,
+    "sha256": "aedb34a05899a6d463b3cfd97ae497cccf2fbbfce3967090e93d5964ee7923f5"
+  },
+  {
+    "path": "02_final_report/Community_Cricket_Opportunity_Final_Analytical_Report.pdf",
+    "bytes": 1530378,
+    "sha256": "32d3c46f0280843e22a6a1713620e29cd22f3e10e530d51b491b8f8baa6506c3"
+  },
+  {
+    "path": "03_dashboard/Dashboard_Executive_Overview_Preview.png",
+    "bytes": 309628,
+    "sha256": "40c50f5133027a4dd38c4cff43e5a93966ee202725d0f8b2a6acd78ad5d63bb0"
+  },
+  {
+    "path": "03_dashboard/Dashboard_Static_Prototype.html",
+    "bytes": 3388,
+    "sha256": "546cfe240dc6cdca9a73a94ab176f791081ab1ca57246662316861a5e4be1ae1"
+  },
+  {
+    "path": "03_dashboard/PHASE17_POWERBI_BUILD_GUIDE.md",
+    "bytes": 4141,
+    "sha256": "360d3db7ec26a652372c30f752b223788a1fe2d99fe8238d9604cc0c0a17d0d7"
+  },
+  {
+    "path": "03_dashboard/POWERBI_DASHBOARD_SPEC.md",
+    "bytes": 2470,
+    "sha256": "4839a157aab7f826361c1dfa0242ba300000b2317832696fde75ba21a764b445"
+  },
+  {
+    "path": "03_dashboard/POWERBI_DAX_MEASURES.txt",
+    "bytes": 1119,
+    "sha256": "123ad9c6025cfb30d2a25264dcde7035ddedd5cdbe575e43f55ec904212477d0"
+  },
+  {
+    "path": "03_dashboard/POWERBI_THEME.json",
+    "bytes": 800,
+    "sha256": "1c06fa22451e1b03137798b4cae72fc18ed676fdb3d05ab52de7af85f8102001"
+  },
+  {
+    "path": "03_dashboard/POWER_QUERY_M.txt",
+    "bytes": 1055,
+    "sha256": "a97cd3dd9b8747945bb6ffdc300d5adc01619feaa93da1b6233a6a7365b317ff"
+  },
+  {
+    "path": "03_dashboard/powerbi_case_studies.csv",
+    "bytes": 4177,
+    "sha256": "c8d87367f0f68a0bbb25f7477897304bbd78b31b41615eebcd426d1731853e64"
+  },
+  {
+    "path": "03_dashboard/powerbi_limitations.csv",
+    "bytes": 4364,
+    "sha256": "c64763811a505cab0dd96d348ff0b8fd3eb1a3cfb5250ea313c8a2b7b7e80726"
+  },
+  {
+    "path": "03_dashboard/powerbi_opportunity_lga.csv",
+    "bytes": 110587,
+    "sha256": "b0c853ff0230369b0e00e693aa0bb47a96b1fe9fa2ca88350605930625a388cc"
+  },
+  {
+    "path": "04_data/DATA_ATTRIBUTION.md",
+    "bytes": 1011,
+    "sha256": "5bad6c74fd100a484084e52d6edac9f24e62963427f534930d1457dec165f700"
+  },
+  {
+    "path": "04_data/README.md",
+    "bytes": 1024,
+    "sha256": "161f0c5607bfa82c25f1fbbdf4e0e725e393a6d9515416dc826b69378995b91c"
+  },
+  {
+    "path": "04_data/case_studies/phase14_case_study_profiles.csv",
+    "bytes": 4177,
+    "sha256": "c8d87367f0f68a0bbb25f7477897304bbd78b31b41615eebcd426d1731853e64"
+  },
+  {
+    "path": "04_data/case_studies/phase14_evidence_matrix.csv",
+    "bytes": 885,
+    "sha256": "e0ccccc24fad5d45334b62f68385c189c83f2e7a3091012e64ea75ebcc7fc642"
+  },
+  {
+    "path": "04_data/case_studies/phase14_source_register.csv",
+    "bytes": 2033,
+    "sha256": "14b88ab2cc8839640b9126c5bdf93b19f2cf2cf89d8eab8609708ee715f622ef"
+  },
+  {
+    "path": "04_data/model_outputs/phase10_eda__eda_correlations.csv",
+    "bytes": 3701,
+    "sha256": "d84f05d46b71eee5c576234f06e10247c8ca0b1ed9b42fb3259c7ce0e794ac99"
+  },
+  {
+    "path": "04_data/model_outputs/phase10_eda__eda_summary_statistics.csv",
+    "bytes": 1237,
+    "sha256": "da8c9d8fecd5494f3399aab9dfa25928b7388a9ee649e4cabb20d2ce3ef5ab19"
+  },
+  {
+    "path": "04_data/model_outputs/phase10_eda__hypothesis_status_phase10.csv",
+    "bytes": 3078,
+    "sha256": "99fab4decf82ab7df1c365e53014e393deec1ee86014a7d70764fbbca8545915"
+  },
+  {
+    "path": "04_data/model_outputs/phase10_eda__state_eda_summary.csv",
+    "bytes": 957,
+    "sha256": "5a707e484b3c96bf8ef780d9dfd4922586a6da2aaaa722690c0dea42152eb691"
+  },
+  {
+    "path": "04_data/model_outputs/phase10_eda__top20_junior_absolute_growth.csv",
+    "bytes": 1618,
+    "sha256": "1f6c3ff937b0786477d17cc50bb0802ec1e64cfd315ed24ac11ad0254beacb1d"
+  },
+  {
+    "path": "04_data/model_outputs/phase10_eda__top20_junior_growth_rate_min5000.csv",
+    "bytes": 1841,
+    "sha256": "b957558d4da3fdec8e8e8e142eb4ddc4bb39a59eeb6533406efbc05858e232f8"
+  },
+  {
+    "path": "04_data/model_outputs/phase10_eda__top20_junior_market.csv",
+    "bytes": 1660,
+    "sha256": "bad519c4ba4c87395f26e489c967095c4eca5e0be236d8f4d912c412de6544f1"
+  },
+  {
+    "path": "04_data/model_outputs/phase10_eda__top20_junior_share_min5000.csv",
+    "bytes": 1907,
+    "sha256": "a7dc5eb870234d19f7c5acd5d1abecd2cdeeaed672a6521421071aa7840a0e20"
+  },
+  {
+    "path": "04_data/model_outputs/phase10_eda__top20_population_growth_rate_min5000.csv",
+    "bytes": 1866,
+    "sha256": "84fe3f8ba212ec2358f586ec262a1e3497c8fdc44b967e91eda188fbeaf6b07a"
+  },
+  {
+    "path": "04_data/model_outputs/phase11_geographic_analysis__growth_corridor_summary.csv",
+    "bytes": 520,
+    "sha256": "8f0b132cc7d0c902c59c7d58465a70389f509d9b2c5861c32a76c33ddf2232a4"
+  },
+  {
+    "path": "04_data/model_outputs/phase11_geographic_analysis__top20_growth_by_state.csv",
+    "bytes": 181,
+    "sha256": "6dcc9edcaff301ec860a2b70ac413cdebc3633a9aede2d2aeb2cc497d2159c76"
+  },
+  {
+    "path": "04_data/model_outputs/phase11_geographic_analysis__top20_lga_geographic_classification.csv",
+    "bytes": 1607,
+    "sha256": "a73d0c6d451003a8cea3e681e0ab899763c7a3b2ecbd5219443e59813fcbbf4d"
+  },
+  {
+    "path": "04_data/model_outputs/phase12_opportunity_model__eligibility_threshold_sensitivity.csv",
+    "bytes": 157,
+    "sha256": "80c79440057fe61e39e634a460383191866025dedd7f66eff7ab5e54fa66dc36"
+  },
+  {
+    "path": "04_data/model_outputs/phase12_opportunity_model__model_v1_eligibility_register.csv",
+    "bytes": 33814,
+    "sha256": "5cce02edc12e89f8502c95a2b5c80c6ab29d37da75e86a58105b4ff84c3a5dea"
+  },
+  {
+    "path": "04_data/model_outputs/phase12_opportunity_model__model_weights_and_definitions.csv",
+    "bytes": 830,
+    "sha256": "1a1119d50b7a938e39767a717b4cb36434f86da386c5823fcc753ecf23339041"
+  },
+  {
+    "path": "04_data/model_outputs/phase12_opportunity_model__opportunity_model_v1_ranked.csv",
+    "bytes": 99741,
+    "sha256": "a58793c10048adbcf15cb9dbabb0dd9006a3c28338bcda600e46e3459230541a"
+  },
+  {
+    "path": "04_data/model_outputs/phase12_opportunity_model__opportunity_model_v1_top20.csv",
+    "bytes": 5914,
+    "sha256": "9bc0bb775ee9fed07b0168e0bde527d63848d17fed6a58fdd658feff5a46aaef"
+  },
+  {
+    "path": "04_data/model_outputs/phase12_opportunity_model__weight_sensitivity_summary.csv",
+    "bytes": 200,
+    "sha256": "11d42506d68ba5a71de2eda6655f2b80bf15f49c42bc09a1326d301582dd6120"
+  },
+  {
+    "path": "04_data/model_outputs/phase13_rank_and_segment__growth_corridor_average_profiles.csv",
+    "bytes": 676,
+    "sha256": "48e151a5531ac152acbbb2679f47576332eb6b37fadff36c44c9e923655334d1"
+  },
+  {
+    "path": "04_data/model_outputs/phase13_rank_and_segment__growth_corridor_segment_profiles.csv",
+    "bytes": 3134,
+    "sha256": "e1b2e0e0c3e8214980d6d9b4abf520344e24d101d7be9f4cbe43c917411d037c"
+  },
+  {
+    "path": "04_data/model_outputs/phase13_rank_and_segment__opportunity_model_v1_segmented.csv",
+    "bytes": 149594,
+    "sha256": "d524504026bb19d4c08bede41c58d3705ed233cf7089c7d6a622b2967b0e290d"
+  },
+  {
+    "path": "04_data/model_outputs/phase13_rank_and_segment__opportunity_tier_summary.csv",
+    "bytes": 883,
+    "sha256": "60ae193295e860800eef844ebbcefa759e5279a56d6847ba639f7f0dab8c8ec5"
+  },
+  {
+    "path": "04_data/model_outputs/phase13_rank_and_segment__strategic_segment_summary.csv",
+    "bytes": 1529,
+    "sha256": "7a4bd91808d2090b14860ddbe41730b956534cf773260cda26283aea94f4aade"
+  },
+  {
+    "path": "04_data/model_outputs/phase13_rank_and_segment__top40_segmented_opportunities.csv",
+    "bytes": 9503,
+    "sha256": "f0645ed963e81febd2699dd88420fa7c9d05d3f9a919476ffc5efbaa54373cf4"
+  },
+  {
+    "path": "04_data/processed/data_dictionary.csv",
+    "bytes": 1852,
+    "sha256": "6b9b79ec54bb902396bf34070b5dc40e9f0baa643d087a0e265f025c1995e8c5"
+  },
+  {
+    "path": "04_data/processed/master_lga.csv",
+    "bytes": 136975,
+    "sha256": "86404d8d3dac5ef4b3d54ddbe88ce718eb3df47b69fc6b754875037a4169ae8f"
+  },
+  {
+    "path": "04_data/processed/phase9_quality_checks.json",
+    "bytes": 720,
+    "sha256": "fb7fa835aeb4458d80d9393cf2ea9a24302b9ad0e085a4aea550b11ae6aa5bbe"
+  },
+  {
+    "path": "04_data/processed/population_lga.csv",
+    "bytes": 53319,
+    "sha256": "45820af883bdfe12163e612d4adc81112e6aad5608978e55c4421d58a4429b13"
+  },
+  {
+    "path": "04_data/processed/seifa_lga.csv",
+    "bytes": 24173,
+    "sha256": "1ce189b44ecc352c102411ef0e07cb34a1dd0b032d5d0322436214debaa37840"
+  },
+  {
+    "path": "04_data/processed/state_summary.csv",
+    "bytes": 384,
+    "sha256": "4af3bfd69b97e1e84353a99181a031b4d81912e1e677c8757a19dd639e59b82b"
+  },
+  {
+    "path": "04_data/processed/youth_lga.csv",
+    "bytes": 70700,
+    "sha256": "fe29e5a41db914fd4e4164a86eb96603a7c76cb50c6eec63098ac67c7ff6270a"
+  },
+  {
+    "path": "04_data/raw_abs/abs_age_sex_lga_2024.xlsx",
+    "bytes": 274335,
+    "sha256": "4e25a917b8556d1d22f628d749f7c348ef72048e6fdd9d241ffa68949b55e184"
+  },
+  {
+    "path": "04_data/raw_abs/abs_age_sex_lga_timeseries_2001_24.xlsx",
+    "bytes": 5506468,
+    "sha256": "5840920ba3bcf228db4b7f9d3ed4cbf452053839ee721238d672486425dbd15b"
+  },
+  {
+    "path": "04_data/raw_abs/abs_regional_population_lga_2024_25.xlsx",
+    "bytes": 118342,
+    "sha256": "3e18c2a04603cfd19ebab7130b8260388d6816aab461803b0dee04d80f8dce5f"
+  },
+  {
+    "path": "04_data/raw_abs/abs_regional_population_lga_timeseries_2001_25.xlsx",
+    "bytes": 300045,
+    "sha256": "625c7c3de3b7df1776adeb4f92764d6b332c8ff5bf4cae1b883ca5aa0abeca39"
+  },
+  {
+    "path": "04_data/raw_abs/abs_seifa_lga_2021.xlsx",
+    "bytes": 393344,
+    "sha256": "fc62072e5488938e4ff416d415af29e29707ca44f258822c2618cc1464c5d6d5"
+  },
+  {
+    "path": "04_data/source_registers/PHASE8_DATA_COLLECTION_REGISTER.md",
+    "bytes": 5379,
+    "sha256": "c6f23b018f827d519350ac48c4eec334589c080e98a7ff87ea4f9fb4e01825b5"
+  },
+  {
+    "path": "04_data/source_registers/phase14_source_register.csv",
+    "bytes": 2033,
+    "sha256": "14b88ab2cc8839640b9126c5bdf93b19f2cf2cf89d8eab8609708ee715f622ef"
+  },
+  {
+    "path": "04_data/validation/claims_and_boundaries.csv",
+    "bytes": 1337,
+    "sha256": "aa7a424374b036bcdaeb7c9ba8631f32131c45ec526e6c79f837b6746094fb4e"
+  },
+  {
+    "path": "04_data/validation/internal_data_upgrade_roadmap.csv",
+    "bytes": 1487,
+    "sha256": "e568178c300e5dd777053e5e2d178fc340879926b32502b3995185e051c85a30"
+  },
+  {
+    "path": "04_data/validation/limitations_register.csv",
+    "bytes": 4364,
+    "sha256": "c64763811a505cab0dd96d348ff0b8fd3eb1a3cfb5250ea313c8a2b7b7e80726"
+  },
+  {
+    "path": "04_data/validation/recommendations__case_specific_recommendations.csv",
+    "bytes": 2236,
+    "sha256": "d6e2de1e3298a71ed27c3512fb5056107da2b521b9983404974dc40930cc1dbb"
+  },
+  {
+    "path": "04_data/validation/recommendations__national_recommendations.csv",
+    "bytes": 2264,
+    "sha256": "acda49d79541268effd9214a5a31ddb827f6d4bc0859438911d9fb8426d2209a"
+  },
+  {
+    "path": "04_data/validation/recommendations__recommended_kpi_framework.csv",
+    "bytes": 1263,
+    "sha256": "f49f40bfc4c559a2bec51cf2edcefe9cef209565aa82d16ee492d00c557071da"
+  },
+  {
+    "path": "04_data/validation/recommendations__strategic_response_framework.csv",
+    "bytes": 2594,
+    "sha256": "63a6b986376a7a44874b2d13729fd170e20cfdfa07179234b1e7121d1a3af427"
+  },
+  {
+    "path": "04_data/validation/sensitivity_consolidated.csv",
+    "bytes": 613,
+    "sha256": "a57748a4a968079344a3bb7886dd356dd083c07a52918f521f9d3918b138c84d"
+  },
+  {
+    "path": "04_data/validation/validation_register.csv",
+    "bytes": 2227,
+    "sha256": "3bce180242f1e5da850b5598b474a909e96aa3404ce07bd1c25592441a1a90ae"
+  },
+  {
+    "path": "05_analysis/charts/case_studies/01_case_study_pillar_profiles.png",
+    "bytes": 57720,
+    "sha256": "a521584c4593086f00af054bdb06894c4f954a6dbbfb60a6e5fe18ef74280e32"
+  },
+  {
+    "path": "05_analysis/charts/eda/01_population_vs_junior_market.png",
+    "bytes": 139990,
+    "sha256": "83ed7dda0835691f71e58d1f220b390d610f15829f676528aeffbdd4b478af26"
+  },
+  {
+    "path": "05_analysis/charts/eda/02_population_growth_vs_junior_growth.png",
+    "bytes": 147655,
+    "sha256": "16c270e33a804a9bafcd07a9707f7fb02165b7e95faf5e5456f7ec5725d451ee"
+  },
+  {
+    "path": "05_analysis/charts/eda/03_top_junior_absolute_growth.png",
+    "bytes": 71041,
+    "sha256": "9fff7dc098942e3745e6fdc5d6c4807ea00d4bfb4c116c4b875851300f44654c"
+  },
+  {
+    "path": "05_analysis/charts/eda/04_state_junior_growth.png",
+    "bytes": 69084,
+    "sha256": "4049788378bbc97306d9f519a6781ad9e44e497cb4e80cb03a32d4d7899e72e8"
+  },
+  {
+    "path": "05_analysis/charts/geographic/01_growth_corridor_contribution.png",
+    "bytes": 63157,
+    "sha256": "02305160e6f0b68c8f58c9d0d8df0d70a4c4ef93cd8abd149f2fba73a4465a35"
+  },
+  {
+    "path": "05_analysis/charts/geographic/02_top20_growth_by_state.png",
+    "bytes": 59555,
+    "sha256": "7dd3005491a7dd44d3c156b81978c490e540bc97ebdd4ebad97feaa22f7c5784"
+  },
+  {
+    "path": "05_analysis/charts/geographic/03_corridor_scale_vs_growth.png",
+    "bytes": 83119,
+    "sha256": "bc2cce4382d340998796785c7c3755aa3d639d2b78e40ecce4097ca0b7f78dc7"
+  },
+  {
+    "path": "05_analysis/charts/model/01_model_v1_top20.png",
+    "bytes": 88790,
+    "sha256": "9bcfeabf4b39a7c6dda0337268a9b989e05ea4985016dc471e8cf8d6a51f86dd"
+  },
+  {
+    "path": "05_analysis/charts/model/02_top12_pillar_profiles.png",
+    "bytes": 100716,
+    "sha256": "f5c685399c9b797666c18dc524a273fbd581b5df707b333875135b0e731776b3"
+  },
+  {
+    "path": "05_analysis/charts/model/03_rank_sensitivity_growth_led.png",
+    "bytes": 151011,
+    "sha256": "c19ddea80e53ab6fce0f319a143d80a02e8d19bfbd936568b8a8007c2900ed2d"
+  },
+  {
+    "path": "05_analysis/charts/model/04_score_distribution.png",
+    "bytes": 43354,
+    "sha256": "fd20b30d93a5d750dce1b85fe2ace1d2cbb011f7dd5721d7e4f8b35aeba57f25"
+  },
+  {
+    "path": "05_analysis/charts/recommendations/01_recommended_decision_process.png",
+    "bytes": 40763,
+    "sha256": "4b53b76b0e36829bde36cdbaddf3e5689aaf6aad9e75f9e1709fe10969c2cdfc"
+  },
+  {
+    "path": "05_analysis/charts/recommendations/02_case_strategy_matrix_illustrative.png",
+    "bytes": 83950,
+    "sha256": "c6148382b2361cd0df30971c866534c70bda1f1b1abdb302666ade5784b427aa"
+  },
+  {
+    "path": "05_analysis/charts/segmentation/01_market_vs_growth_segments.png",
+    "bytes": 221736,
+    "sha256": "1cd4bf11014451ad9c80bc9d3bf1b39912a921a2b163049fa2c5c87d026a2b2d"
+  },
+  {
+    "path": "05_analysis/charts/segmentation/02_segment_counts.png",
+    "bytes": 80443,
+    "sha256": "7de2b0e5aca700964dc9af6b77095d5c615d3f6c10c9f32e79182a81b072169b"
+  },
+  {
+    "path": "05_analysis/charts/segmentation/03_top20_by_segment.png",
+    "bytes": 223867,
+    "sha256": "5b151e70743ef9cfdbb11ce3d4725886508e4e3363d2cbe0e367cea4f6326e93"
+  },
+  {
+    "path": "05_analysis/charts/segmentation/04_corridor_pillar_profiles.png",
+    "bytes": 105947,
+    "sha256": "597ef8f789f08af20185d54a4577286ba0c3c2636104f73b1aa2cfc32ac6a54b"
+  },
+  {
+    "path": "05_analysis/charts/validation/01_weight_sensitivity_top20.png",
+    "bytes": 47348,
+    "sha256": "c46efb19523541e2cc0faf3c26340087548fcd1a4172fc48b31f29dd381d7908"
+  },
+  {
+    "path": "05_analysis/charts/validation/02_limitation_severity.png",
+    "bytes": 33104,
+    "sha256": "37084b670d7313e3450c2d017739ed3c78dade5b11f2276a38074d327286d06e"
+  },
+  {
+    "path": "05_analysis/charts/validation/03_validation_maturity.png",
+    "bytes": 63588,
+    "sha256": "d7583e81a217b19327b3512ed0289e579195f203036b1b62fa7c6e32b5a1cc31"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE01_ROLE_AND_BUSINESS_PROBLEM.md",
+    "bytes": 713,
+    "sha256": "5f4ff1b8b26214e7098f18954f32d4dd7c07a4859abbf78fadeeb8642d4093f3"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE02_RESEARCH_QUESTION_AND_SCOPE.md",
+    "bytes": 777,
+    "sha256": "bc4b68cf644037b59eefa82c74bb0222b5751d773f4d3cde5f59c639683795af"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE03_CA_STRATEGY_AND_TARGETS.md",
+    "bytes": 588,
+    "sha256": "e8205121590f219eb1b5c522ab5cdfd27d201bb3b8859bb9e3a13de204a204d4"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE04_PUBLIC_DATA_AUDIT.md",
+    "bytes": 639,
+    "sha256": "63b3cb2c7a035afb9ae1e749acd4c98dc864afc9f489b1e972de62f2f3affab4"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE05_DATA_FEASIBILITY.md",
+    "bytes": 518,
+    "sha256": "c5c225c86e44dbecb087a191528434b229836ff367db00ac650a29c6763e0d92"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE06_ANALYTICAL_FRAMEWORK.md",
+    "bytes": 651,
+    "sha256": "ea71fc6b250bc0c73c39cf9d8b18c8f658c5192417ad37a78f2422d0d946eb6a"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE07_HYPOTHESES.md",
+    "bytes": 791,
+    "sha256": "83885bd321650a4f31c96aad495d22296c018bbe31c536b1027c935ba9a63c65"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE08_DATA_COLLECTION.md",
+    "bytes": 5379,
+    "sha256": "c6f23b018f827d519350ac48c4eec334589c080e98a7ff87ea4f9fb4e01825b5"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE09_DATA_CLEANING_AND_INTEGRATION.md",
+    "bytes": 645,
+    "sha256": "b72dec5f4138a79831df244796c01719b058e26bc93bae03ab70feddc27943f9"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE10_EDA.md",
+    "bytes": 2823,
+    "sha256": "959bd7f2cdaa78e6e593cbfc658d76714a9f1288073b4f0b6dc6edaa037b446d"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE11_GEOGRAPHIC_ANALYSIS.md",
+    "bytes": 5353,
+    "sha256": "5939433c1b9810fb8b070aebba41fd5bd2d32470830ba0e09107baa52b1042c3"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE12_OPPORTUNITY_MODEL.md",
+    "bytes": 6384,
+    "sha256": "51fb0bd179589882d6d8f3c9a993e43735c4ffdef911c251ca84822bc53560ee"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE13_RANK_AND_SEGMENT.md",
+    "bytes": 6530,
+    "sha256": "3220c8e3ea6a682da6d62d0a9a4f9936f16a644dc338d022a5aa473374aab388"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE14_TOP_OPPORTUNITIES.md",
+    "bytes": 7326,
+    "sha256": "006addacbe22c91915c7bf0d604aadf9e41bbd2cd161a7d2599f977e436a7e18"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE15_STRATEGIC_RECOMMENDATIONS.md",
+    "bytes": 9329,
+    "sha256": "0d10cfe5b09c2285fdbc7c2185a37b94d367747521310c5561209b36472078f8"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE16_VALIDATION_AND_LIMITATIONS.md",
+    "bytes": 13035,
+    "sha256": "6c9bcf45935095afd31fbff6db6eb54a35e31ecc29df768a9a8649e4b4f450bc"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE17_POWERBI_DASHBOARD.md",
+    "bytes": 4141,
+    "sha256": "360d3db7ec26a652372c30f752b223788a1fe2d99fe8238d9604cc0c0a17d0d7"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE18_FINAL_ANALYTICAL_REPORT.md",
+    "bytes": 305,
+    "sha256": "04b40a851c99ed8bc01b765e9e3536d2de67249f21b2e5d2cdd6a5fe185c681b"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE19_EXECUTIVE_BRIEF.md",
+    "bytes": 291,
+    "sha256": "c9ff4f76a06dc6044b4354bd922c372c0ffc962c4ede055e8da053b12be1f70f"
+  },
+  {
+    "path": "06_methodology/phase_summaries/PHASE20_GITHUB_PORTFOLIO.md",
+    "bytes": 694,
+    "sha256": "bcc7e8e9bea170cc491f641f1956445b41ec4e4089e14b851b5f57db71fcdfa6"
+  },
+  {
+    "path": "07_src/01_build_master_lga.py",
+    "bytes": 11916,
+    "sha256": "63efd38afe1505de8eec93c8eda79a19ea017c6755c864ca1c045c77f316964f"
+  },
+  {
+    "path": "07_src/01b_patch_merribek.py",
+    "bytes": 1094,
+    "sha256": "ee6f9eb591bbf8b1751249100f951e28f476a6498c60fd4c49d71bac9deb9b6a"
+  },
+  {
+    "path": "07_src/03_build_opportunity_model.py",
+    "bytes": 2328,
+    "sha256": "b53e5344f52038f02ff67ce328bcf9d1a012e20c7d1409466c37e93a428bd2bf"
+  },
+  {
+    "path": "07_src/06_create_final_report.py",
+    "bytes": 33270,
+    "sha256": "9305ef193b8ca6a89ca588e7eb567ad10286243a6c35eb68505ed4a438ecf324"
+  },
+  {
+    "path": "07_src/README.md",
+    "bytes": 751,
+    "sha256": "dbabb24c9d5073385b807240dae47fc41c8fd37693c01ea30c9164eae0e03f5f"
+  },
+  {
+    "path": "08_portfolio_assets/case_study_profiles.png",
+    "bytes": 57720,
+    "sha256": "a521584c4593086f00af054bdb06894c4f954a6dbbfb60a6e5fe18ef74280e32"
+  },
+  {
+    "path": "08_portfolio_assets/dashboard_preview.png",
+    "bytes": 309628,
+    "sha256": "40c50f5133027a4dd38c4cff43e5a93966ee202725d0f8b2a6acd78ad5d63bb0"
+  },
+  {
+    "path": "08_portfolio_assets/executive_brief_preview.png",
+    "bytes": 389620,
+    "sha256": "fcd331627c8082d22c7b909d85ef2636a0f27c953fb49d0512601610633c55d5"
+  },
+  {
+    "path": "08_portfolio_assets/growth_corridors.png",
+    "bytes": 63157,
+    "sha256": "02305160e6f0b68c8f58c9d0d8df0d70a4c4ef93cd8abd149f2fba73a4465a35"
+  },
+  {
+    "path": "08_portfolio_assets/top20_opportunity.png",
+    "bytes": 88790,
+    "sha256": "9bcfeabf4b39a7c6dda0337268a9b989e05ea4985016dc471e8cf8d6a51f86dd"
+  },
+  {
+    "path": "CITATION.cff",
+    "bytes": 395,
+    "sha256": "fb4213ed3beccf2a286a2687496163faa23ed3c844161ef4fb3860260bce0d49"
+  },
+  {
+    "path": "FILE_MANIFEST.json",
+    "bytes": 22393,
+    "sha256": "048be1301a4530cb431a098c9d7911665bace0b6652dcfdc4166478d5a22bb1a"
+  },
+  {
+    "path": "LICENSE_CODE.txt",
+    "bytes": 784,
+    "sha256": "782301087a95cb89173aeb03740555b8aec3b70e7e51218f9e2e28ff57438013"
+  },
+  {
+    "path": "README.md",
+    "bytes": 7348,
+    "sha256": "7bac884993f246bbe3bc4f20a1e08b648d070848935b3217c976682d30f56aa1"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 51,
+    "sha256": "7bad2a5a8eb0b86ceac8bd3eec98e09b255f8daf9f49d7300b8c3d641a1b3fab"
+  }
+]

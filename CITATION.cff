@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this portfolio project, please cite it as below."
+title: "Where Are Australia's Next Community Cricketers?"
+type: software
+authors:
+  - family-names: "Musa"
+    given-names: "Md"
+date-released: 2026-08-11
+version: "1.0"
+abstract: "A public-data decision-support prototype for prioritising Australian community-cricket participation growth opportunities."
