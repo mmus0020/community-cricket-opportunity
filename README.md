@@ -188,13 +188,3 @@ See:
 **Md Musa**  
 Master of Information Technology, Monash University  
 Software Engineering background | Data, research and sports-technology interests
-
----
-
-### Suggested portfolio link
-
-After you upload this folder to GitHub, your shareable URL will look like:
-
-`https://github.com/<your-username>/community-cricket-opportunity`
-
-Use that repository URL in your resume, LinkedIn Featured section and executive brief.
