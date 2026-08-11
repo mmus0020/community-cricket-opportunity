@@ -1,0 +1,11 @@
+﻿id,internal_data_layer,minimum_fields,analytical_value,priority
+U1,PlayHQ registrations,"Participant ID, geography, age, gender, program/club, first registration, season history","Acquisition, retention, churn, cohort conversion, geographic penetration",Critical
+U2,Club/program supply,"Club/program coordinates, age/gender formats, capacity, sessions",Formal System Readiness and access analysis,Critical
+U3,Facility capacity,"Ground/net locations, cricket suitability, allocated hours, lighting, utilisation, planned upgrades",Capacity-gap diagnosis,Critical
+U4,Waitlists/unmet demand,"Turnaways, team-entry rejections, program waitlists",Direct evidence of constrained supply,High
+U5,Volunteer/workforce,"Coaches, officials, volunteers by club/program",Operational capacity risk,High
+U6,School participation,"School program delivery, school location, transition to club",Acquisition pathway and conversion analysis,High
+U7,Participant research,"Motivations, barriers, inclusivity, travel tolerance, cost sensitivity",Demand validation and intervention design,High
+U8,Cultural/inclusion fields,Responsibly collected demographic variables and preferred participation format,Strategic inclusion analysis without stereotyping,High
+U9,Intervention history,"Program/facility investment, start/end dates, target groups, cost",Impact and ROI evaluation,High
+U10,Financial/resource data,Program/facility cost and staff effort,Resource optimisation and business cases,Medium/High

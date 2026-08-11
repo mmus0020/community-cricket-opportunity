@@ -1,0 +1,9 @@
+﻿test_type,scenario,result_1,result_2
+Weight scenario,Balanced,Top20 overlap=20/20,Spearman=1.000
+Weight scenario,Growth-led,Top20 overlap=20/20,Spearman=0.947
+Weight scenario,Scale-led,Top20 overlap=18/20,Spearman=0.939
+Weight scenario,Intensity-led,Top20 overlap=19/20,Spearman=0.983
+Eligibility threshold,pop>=2500; junior>=250,Eligible=416,Top20 overlap=19/20
+Eligibility threshold,pop>=5000; junior>=500,Eligible=365,Top20 overlap=20/20
+Eligibility threshold,pop>=10000; junior>=1000,Eligible=302,Top20 overlap=20/20
+Eligibility threshold,pop>=20000; junior>=1500,Eligible=229,Top20 overlap=19/20

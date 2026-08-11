@@ -1,0 +1,27 @@
+let
+    Source = Csv.Document(
+        File.Contents("C:\\PATH\\powerbi_opportunity_lga.csv"),
+        [Delimiter=",", Columns=17, Encoding=65001, QuoteStyle=QuoteStyle.Csv]
+    ),
+    PromotedHeaders = Table.PromoteHeaders(Source, [PromoteAllScalars=true]),
+    ChangedTypes = Table.TransformColumnTypes(PromotedHeaders,{
+        {"RANK_BALANCED", Int64.Type},
+        {"LGA_CODE", type text},
+        {"LGA_NAME", type text},
+        {"STATE", type text},
+        {"SCORE_BALANCED", type number},
+        {"OPPORTUNITY_TIER", type text},
+        {"STRATEGIC_SEGMENT", type text},
+        {"SCORE_MARKET_SIZE", type number},
+        {"SCORE_YOUTH_INTENSITY", type number},
+        {"SCORE_GROWTH_MOMENTUM", type number},
+        {"AGE_5_14_2024", Int64.Type},
+        {"AGE_5_14_SHARE_TOTAL_PCT", type number},
+        {"AGE_5_14_CHANGE_5Y", Int64.Type},
+        {"AGE_5_14_GROWTH_5Y_PCT", type number},
+        {"TOTAL_POP_2025", Int64.Type},
+        {"ROBUSTNESS_LABEL", type text},
+        {"SUGGESTED_RESPONSE", type text}
+    })
+in
+    ChangedTypes

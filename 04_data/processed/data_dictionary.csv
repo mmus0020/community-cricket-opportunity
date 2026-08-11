@@ -1,0 +1,16 @@
+﻿VARIABLE_NAME,DESCRIPTION,SOURCE,REFERENCE_YEAR,EVIDENCE_TYPE,LIMITATION_OR_NOTE
+LGA_CODE,Primary LGA join key,ABS Regional Population,2025 geography,Direct,Stored as text; no name-based joining
+TOTAL_POP_2025,Estimated resident population at 30 June 2025,ABS Regional Population,2025,Direct,Current market size
+POP_GROWTH_1Y_PCT,ERP growth from 2024 to 2025,Derived from ABS ERP,2024-25,Derived,Percentage
+POP_GROWTH_5Y_PCT,ERP growth from 2020 to 2025,Derived from ABS ERP,2020-25,Derived,Percentage
+AGE_5_14_2024,"Observed population aged 5-14, 5-9 plus 10-14",ABS Regional Population by Age and Sex,2024,Derived from direct bands,Used instead of unavailable exact 5-12
+AGE_5_14_SHARE_TOTAL_PCT,Age 5-14 share of 2024 total population,Derived,2024,Derived,Uses TOTAL_POP_2024 denominator
+AGE_5_14_GROWTH_5Y_PCT,"Growth in age 5-14 population, 2019 to 2024",Derived from ABS age time series,2019-24,Derived,Can be volatile in small LGAs
+GIRLS_5_14_2024,Female population aged 5-14,ABS Regional Population by Age and Sex,2024,Derived from direct bands,Overlaps total junior market
+GIRLS_SHARE_OF_5_14_PCT,Girls as share of age 5-14 population,Derived,2024,Derived,Diagnostic; not independent market size
+IRSD_SCORE_2021,Index of Relative Socio-economic Disadvantage score,ABS SEIFA,2021,Context,Not included in core opportunity score yet
+IRSD_DECILE_2021,IRSD national decile,ABS SEIFA,2021,Context,"1 most disadvantaged, 10 least disadvantaged"
+AGE_DATA_AVAILABLE,Age-data join flag,Derived QA,2024/25,QA,"1 joined, 0 missing"
+SEIFA_DATA_AVAILABLE,SEIFA join flag,Derived QA,2021/25,QA,"1 joined, 0 missing"
+CULTURAL_DATA_AVAILABLE,Cultural layer availability flag,Project,2021,QA,0 in Phase 9; extraction pending
+CRICKET_SUPPLY_DATA_AVAILABLE,Cricket supply layer availability flag,Project,2026,QA,0 in Phase 9; access unresolved

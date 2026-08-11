@@ -1,0 +1,6 @@
+﻿component,input,normalisation,baseline_weight,notes
+Market Size,AGE_5_14_2024,National percentile among eligible LGAs,33.33%,One direct market-size signal only; avoids double-counting total population/girls count.
+Youth Concentration,AGE_5_14_SHARE_TOTAL_PCT,National percentile among eligible LGAs,33.33%,Captures young population structure rather than absolute scale.
+Growth Momentum,Average of absolute and percentage 2019–24 age 5–14 growth percentiles,National percentile components,33.33%,Absolute and rate components each contribute 16.67% overall.
+Cultural Strategic Alignment,Pending,Not included,0%,Excluded from V1 because Census cultural layer is not yet integrated.
+Cricket System Readiness,Pending,Separate dimension,0%,Not part of opportunity score; club/program supply remains unavailable nationally.

@@ -1,0 +1,8 @@
+﻿segment,lga_count,mean_opportunity_score,mean_market_score,mean_youth_intensity,mean_growth_momentum,leading_examples
+Balanced High-Opportunity Market,15,94.73059360730593,95.03196347031964,93.13242009132422,96.02739726027396,"Wyndham, Melton, Blacktown, Ipswich, Camden, Casey, Logan, Hume"
+Emerging Young Growth Market,21,75.72624483583388,53.37899543378996,89.11937377690803,84.68036529680364,"Serpentine-Jarrahdale, Mitchell, Kwinana, Wollondilly, Gladstone, Palmerston, Cessnock, Karratha"
+Large Growth Market,23,72.74667460790154,86.00357355568791,46.861226920786194,85.37522334723049,"Sunshine Coast, Joondalup, Lake Macquarie, Ballarat, Unincorporated ACT, Cockburn, Shellharbour, Greater Geelong"
+Rapid Growth Market,28,58.0658838878017,44.82876712328767,46.223091976516635,83.14579256360079,"Queanbeyan-Palerang, Albury, Mount Barker, Kalamunda, Baw Baw, Busselton, Livingstone, Whitsunday"
+Young High-Intensity Market,45,55.75190258751904,34.669710806697104,85.58295281582956,47.00304414003045,"Golden Plains, Wagga Wagga, Kalgoorlie-Boulder, Central Highlands (Qld), Wodonga, Harvey, Tamworth, Isaac"
+Large Established / Slower-Growth Market,38,50.38211968276857,86.00576784426819,39.53857245854362,25.602018745493872,"Hornsby, Townsville, Ku-ring-gai, Toowoomba, Cumberland, Banyule, Canterbury-Bankstown, Sutherland"
+Mixed / Moderate Opportunity,195,38.8021308980213,39.44573234984193,37.46540217773094,39.49525816649105,"Armadale, Whittlesea, Playford, Gosnells, Maitland, Moreton Bay, Penrith, Mackay"

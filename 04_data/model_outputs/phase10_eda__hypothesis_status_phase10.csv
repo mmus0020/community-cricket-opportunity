@@ -1,0 +1,23 @@
+﻿hypothesis,statement,phase10_status,evidence_or_limitation
+H1,Geographic opportunity-related demographic conditions vary,Supported (components only),"Large dispersion in size, shares and growth; final opportunity score not yet built."
+H2,Population growth tends to align with opportunity,Partially supported,Population growth and junior growth are moderately related; opportunity itself not yet scored.
+H3,Junior growth is more informative than total growth,Partially supported,Junior and total growth are related but not interchangeable (Spearman ≈ 0.57).
+H4,Absolute junior size and junior share identify different areas,Supported,"Only 3 top-20 overlaps between absolute junior size and junior share (5,000+ population guardrail)."
+H5,Outer-metropolitan growth corridors feature strongly,Suggestive / not formally testable,"Several growth-corridor LGAs rank strongly, but metro classification is not integrated."
+H6,Regional opportunities emerge under relative measures,Suggestive / not formally testable,"Relative rankings include regional/remote areas, but peer geography is not integrated."
+H7,Female junior opportunity does not mirror total junior opportunity,Not supported for raw market size,Girls 5–14 and total 5–14 counts are effectively the same ranking signal (Spearman ≈ 1.00).
+H8,South Asian alignment is geographically concentrated,Not testable,Cultural-demographic layer pending.
+H9,Multicultural alignment adds information beyond population size,Not testable,Cultural-demographic layer pending.
+H10,No single demographic variable captures opportunity,Supported conceptually,"Market size, youth share and growth identify different LGA sets."
+H11,Candidate variables are correlated,Supported,"Strong redundancy exists among population, junior and girls counts."
+H12,Absolute counts create large-LGA bias,Supported,Absolute market rankings strongly favour large LGAs; share rankings differ sharply.
+H13,Percentage growth creates small-LGA volatility,Supported,Extreme rates appear in small bases; rate must be paired with absolute change/guardrails.
+H14,Club supply does not perfectly match opportunity,Not testable,Cricket supply layer unavailable.
+H15,Some high-opportunity areas have low readiness,Not testable,Readiness layer unavailable.
+H16,Some high-opportunity areas have high readiness,Not testable,Readiness layer unavailable.
+H17,High club density does not imply high growth opportunity,Not testable,Cricket supply layer unavailable.
+H18,SEIFA is more useful for interpretation than ranking,Provisionally supported,IRSD shows only weak rank relationships with overall and junior growth.
+H19,Metro/regional areas need different readiness benchmarks,Not testable,Remoteness/readiness layers absent.
+H20,Opportunity × readiness is more actionable than ranking,Not testable yet,Requires both final dimensions.
+H21,Current cricket investment may validate model,Not tested,Belongs after priority areas are identified.
+H22,Opportunity-readiness mismatch yields high-value findings,Not testable yet,Requires readiness data.

@@ -1,0 +1,30 @@
+{
+  "master_lga_count": 548,
+  "duplicate_master_codes": 0,
+  "age_joined_count": 546,
+  "age_missing_count": 2,
+  "seifa_joined_count": 546,
+  "seifa_missing_count": 2,
+  "unincorporated_count": 5,
+  "negative_population_count": 0,
+  "age_not_equal_male_plus_female": 0,
+  "age_current_vs_timeseries_2024_mismatch": 0,
+  "master_codes_missing_age": [
+    "71500: East Arnhem",
+    "71700: Groote Archipelago"
+  ],
+  "master_codes_missing_seifa": [
+    "71500: East Arnhem",
+    "71700: Groote Archipelago"
+  ],
+  "age_codes_not_in_master": [
+    "71300"
+  ],
+  "seifa_codes_not_in_master": [
+    "25250",
+    "71300"
+  ],
+  "manual_correspondences": {
+    "SEIFA_2021_MORELAND_25250_TO_MERRI_BEK_24700": "Applied"
+  }
+}

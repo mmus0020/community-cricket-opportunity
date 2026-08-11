@@ -1,0 +1,44 @@
+{
+  "name": "Community Cricket Opportunity",
+  "dataColors": [
+    "#1F6F78",
+    "#3E8E7E",
+    "#6FAF9F",
+    "#A8CFC5",
+    "#D9E9E4",
+    "#D6A84A",
+    "#B95C4B",
+    "#48647C"
+  ],
+  "background": "#F5F7F9",
+  "foreground": "#18324A",
+  "tableAccent": "#1F6F78",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "show": true,
+            "fontFamily": "Segoe UI Semibold",
+            "color": {
+              "solid": {
+                "color": "#18324A"
+              }
+            }
+          }
+        ],
+        "background": [
+          {
+            "show": true,
+            "color": {
+              "solid": {
+                "color": "#FFFFFF"
+              }
+            },
+            "transparency": 0
+          }
+        ]
+      }
+    }
+  }
+}

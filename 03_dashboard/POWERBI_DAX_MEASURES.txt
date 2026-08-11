@@ -1,0 +1,52 @@
+-- Table: Opportunity
+
+LGA Count =
+DISTINCTCOUNT(Opportunity[LGA_CODE])
+
+Very High Opportunity LGAs =
+CALCULATE(
+    DISTINCTCOUNT(Opportunity[LGA_CODE]),
+    Opportunity[OPPORTUNITY_TIER] = "Tier 1 — Very High"
+)
+
+Robust Top-20 LGAs =
+CALCULATE(
+    DISTINCTCOUNT(Opportunity[LGA_CODE]),
+    Opportunity[ROBUSTNESS_LABEL] = "Robust Top-20"
+)
+
+Average Opportunity Score =
+AVERAGE(Opportunity[SCORE_BALANCED])
+
+Junior Market =
+SUM(Opportunity[AGE_5_14_2024])
+
+Junior Growth 5Y =
+SUM(Opportunity[AGE_5_14_CHANGE_5Y])
+
+Average Junior Growth % =
+AVERAGE(Opportunity[AGE_5_14_GROWTH_5Y_PCT])
+
+Average Market Size Score =
+AVERAGE(Opportunity[SCORE_MARKET_SIZE])
+
+Average Youth Intensity Score =
+AVERAGE(Opportunity[SCORE_YOUTH_INTENSITY])
+
+Average Growth Momentum Score =
+AVERAGE(Opportunity[SCORE_GROWTH_MOMENTUM])
+
+Selected LGA Rank =
+MIN(Opportunity[RANK_BALANCED])
+
+Selected LGA Score =
+MAX(Opportunity[SCORE_BALANCED])
+
+Selected LGA Junior Market =
+SUM(Opportunity[AGE_5_14_2024])
+
+Selected LGA Junior Growth =
+SUM(Opportunity[AGE_5_14_CHANGE_5Y])
+
+Selected LGA Growth % =
+AVERAGE(Opportunity[AGE_5_14_GROWTH_5Y_PCT])

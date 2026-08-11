@@ -1,0 +1,11 @@
+﻿id,validation_dimension,assessment,evidence,interpretation
+V1,Internal data integrity,Strong,Phase 9 QA: 548 unique current LGA records; no duplicate LGA codes; 0 male+female reconciliation failures; 0 current-vs-history age mismatches.,"Supports confidence in extraction and joins, not in causal interpretation."
+V2,Weight sensitivity,Strong,"Balanced Top 20 overlap: Growth-led 20/20, Scale-led 18/20, Intensity-led 19/20; full-rank correlations remain high.",Shows leading candidates are not created by one arbitrary weight set.
+V3,Eligibility-threshold sensitivity,Strong,Alternative minimum-market thresholds retain 19–20 of the baseline Top 20.,Shows candidate set is robust to reasonable small-base guardrails.
+V4,Construct validity — redundancy control,Strong,Phase 10 found total population vs junior market Spearman ≈0.993 and girls vs total junior count ≈1.000; redundant variables were removed from scoring.,Supports simplified three-pillar architecture.
+V5,Construct validity — distinct growth signal,Moderate/Strong,Overall population growth vs junior growth Spearman ≈0.57.,Supports keeping Growth Momentum separate from Market Size.
+V6,Geographic face validity,Moderate/Strong,High-ranked LGAs cluster in major growth systems identified independently in Phase 11.,"Plausible spatial coherence, but not predictive validation."
+V7,External case-study validation,Moderate,"Wyndham, Blacktown, Ipswich, Maitland show local cricket/infrastructure evidence broadly consistent with model screening; Armadale remains less directly validated.","Useful triangulation, but cases are purposive rather than a random validation sample."
+V8,Predictive validity,Not established,No future LGA-level new-registration outcome is available.,Model must not be described as predicting registrations or demand.
+V9,Criterion validity using current participation penetration,Not established,No national public LGA registered-participation denominator/numerator pair exists.,Cannot identify true low-penetration or 'untapped' cricket markets.
+V10,System Readiness validity,Not established,National club/program/facility-capacity layer not available.,Final Opportunity × Readiness framework remains incomplete.

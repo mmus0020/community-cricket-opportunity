@@ -1,0 +1,549 @@
+﻿LGA_CODE,LGA_NAME,STATE,AGE_DATA_AVAILABLE,TOTAL_POP_2025,AGE_5_14_2019,MODEL_V1_ELIGIBLE,reason_if_not_eligible
+10050,Albury,New South Wales,1,59538,6800,1,
+10180,Armidale,New South Wales,1,29652,3812,1,
+10250,Ballina,New South Wales,1,48603,5271,1,
+10300,Balranald,New South Wales,1,2244,316,0,"Below 5,000 total-population guardrail"
+10470,Bathurst,New South Wales,1,45359,5795,1,
+10500,Bayside (NSW),New South Wales,1,187770,17091,1,
+10550,Bega Valley,New South Wales,1,36921,3909,1,
+10600,Bellingen,New South Wales,1,13348,1688,1,
+10650,Berrigan,New South Wales,1,8773,1026,1,
+10750,Blacktown,New South Wales,1,449385,56453,1,
+10800,Bland,New South Wales,1,5455,780,1,
+10850,Blayney,New South Wales,1,7831,1088,1,
+10900,Blue Mountains,New South Wales,1,79236,10095,1,
+10950,Bogan,New South Wales,1,2373,324,0,"Below 5,000 total-population guardrail"
+11150,Bourke,New South Wales,1,2310,356,0,"Below 5,000 total-population guardrail"
+11200,Brewarrina,New South Wales,1,1396,241,0,"Below 5,000 total-population guardrail"
+11250,Broken Hill,New South Wales,1,17515,2041,1,
+11300,Burwood,New South Wales,1,43927,3291,1,
+11350,Byron,New South Wales,1,38784,4015,1,
+11400,Cabonne,New South Wales,1,13915,2069,1,
+11450,Camden,New South Wales,1,146483,16389,1,
+11500,Campbelltown (NSW),New South Wales,1,191285,24622,1,
+11520,Canada Bay,New South Wales,1,93006,9655,1,
+11570,Canterbury-Bankstown,New South Wales,1,389687,49567,1,
+11600,Carrathool,New South Wales,1,2803,369,0,"Below 5,000 total-population guardrail"
+11650,Central Coast (NSW),New South Wales,1,357816,43411,1,
+11700,Central Darling,New South Wales,1,1773,218,0,"Below 5,000 total-population guardrail"
+11720,Cessnock,New South Wales,1,71443,8286,1,
+11730,Clarence Valley,New South Wales,1,56874,6148,1,
+11750,Cobar,New South Wales,1,4019,581,0,"Below 5,000 total-population guardrail"
+11800,Coffs Harbour,New South Wales,1,82109,9954,1,
+12000,Coolamon,New South Wales,1,4742,616,0,"Below 5,000 total-population guardrail"
+12150,Coonamble,New South Wales,1,3889,528,0,"Below 5,000 total-population guardrail"
+12160,Cootamundra-Gundagai,New South Wales,1,11429,1429,1,
+12350,Cowra,New South Wales,1,12721,1535,1,
+12380,Cumberland,New South Wales,1,256906,30734,1,
+12390,Dubbo,New South Wales,1,57384,7616,1,
+12700,Dungog,New South Wales,1,10102,1216,1,
+12730,Edward River,New South Wales,1,8501,1061,1,
+12750,Eurobodalla,New South Wales,1,41309,4039,1,
+12850,Fairfield,New South Wales,1,213677,27962,1,
+12870,Federation,New South Wales,1,13247,1477,1,
+12900,Forbes,New South Wales,1,9301,1343,1,
+12930,Georges River,New South Wales,1,163919,17098,1,
+12950,Gilgandra,New South Wales,1,4304,590,0,"Below 5,000 total-population guardrail"
+13010,Glen Innes Severn,New South Wales,1,9069,1033,1,
+13310,Goulburn Mulwaree,New South Wales,1,33746,3975,1,
+13340,Greater Hume,New South Wales,1,11742,1631,1,
+13450,Griffith,New South Wales,1,27458,3615,1,
+13550,Gunnedah,New South Wales,1,13502,1899,1,
+13660,Gwydir,New South Wales,1,4968,667,0,"Below 5,000 total-population guardrail"
+13800,Hawkesbury,New South Wales,1,69299,8956,1,
+13850,Hay,New South Wales,1,2899,323,0,"Below 5,000 total-population guardrail"
+13910,Hilltops,New South Wales,1,19347,2596,1,
+14000,Hornsby,New South Wales,1,155484,21154,1,
+14100,Hunters Hill,New South Wales,1,13983,1953,1,
+14170,Inner West,New South Wales,1,193125,18544,1,
+14220,Inverell,New South Wales,1,18152,2462,1,
+14300,Junee,New South Wales,1,6403,742,1,
+14350,Kempsey,New South Wales,1,31950,3633,1,
+14400,Kiama,New South Wales,1,23139,2663,1,
+14500,Ku-ring-gai,New South Wales,1,128542,18898,1,
+14550,Kyogle,New South Wales,1,9707,1116,1,
+14600,Lachlan,New South Wales,1,6118,938,1,
+14650,Lake Macquarie,New South Wales,1,224540,26293,1,
+14700,Lane Cove,New South Wales,1,43094,4739,1,
+14750,Leeton,New South Wales,1,11475,1718,1,
+14850,Lismore,New South Wales,1,43642,5601,1,
+14870,Lithgow,New South Wales,1,20693,2495,1,
+14900,Liverpool,New South Wales,1,261231,33875,1,
+14920,Liverpool Plains,New South Wales,1,7671,1003,1,
+14950,Lockhart,New South Wales,1,3509,458,0,"Below 5,000 total-population guardrail"
+15050,Maitland,New South Wales,1,100439,12465,1,
+15240,Mid-Coast,New South Wales,1,99448,10294,1,
+15270,Mid-Western,New South Wales,1,26472,3473,1,
+15300,Moree Plains,New South Wales,1,12845,1851,1,
+15350,Mosman,New South Wales,1,29374,3551,1,
+15520,Murray River,New South Wales,1,14030,1494,1,
+15560,Murrumbidgee,New South Wales,1,3695,490,0,"Below 5,000 total-population guardrail"
+15650,Muswellbrook,New South Wales,1,16859,2485,1,
+15700,Nambucca Valley,New South Wales,1,21237,2338,1,
+15750,Narrabri,New South Wales,1,12797,1878,1,
+15800,Narrandera,New South Wales,1,5761,854,1,
+15850,Narromine,New South Wales,1,6420,1006,1,
+15900,Newcastle,New South Wales,1,178935,18612,1,
+15950,North Sydney,New South Wales,1,73705,5442,1,
+15990,Northern Beaches,New South Wales,1,272656,35811,1,
+16100,Oberon,New South Wales,1,5595,656,1,
+16150,Orange,New South Wales,1,44990,6322,1,
+16200,Parkes,New South Wales,1,14175,2128,1,
+16260,Parramatta,New South Wales,1,279014,29386,1,
+16350,Penrith,New South Wales,1,231701,29627,1,
+16380,Port Macquarie-Hastings,New South Wales,1,92432,10069,1,
+16400,Port Stephens,New South Wales,1,80070,9218,1,
+16490,Queanbeyan-Palerang,New South Wales,1,67633,7805,1,
+16550,Randwick,New South Wales,1,146484,14548,1,
+16610,Richmond Valley,New South Wales,1,24044,3154,1,
+16700,Ryde,New South Wales,1,141693,13465,1,
+16900,Shellharbour,New South Wales,1,83228,9743,1,
+16950,Shoalhaven,New South Wales,1,111755,11927,1,
+17000,Singleton,New South Wales,1,25841,3538,1,
+17040,Snowy Monaro,New South Wales,1,22396,2576,1,
+17080,Snowy Valleys,New South Wales,1,15058,1900,1,
+17100,Strathfield,New South Wales,1,49203,4348,1,
+17150,Sutherland,New South Wales,1,241327,29393,1,
+17200,Sydney,New South Wales,1,241797,8857,1,
+17310,Tamworth,New South Wales,1,66403,9024,1,
+17350,Temora,New South Wales,1,6050,815,1,
+17400,Tenterfield,New South Wales,1,7188,751,1,
+17420,The Hills,New South Wales,1,222675,27419,1,
+17550,Tweed,New South Wales,1,101044,11470,1,
+17620,Upper Hunter,New South Wales,1,14425,2029,1,
+17640,Upper Lachlan,New South Wales,1,9005,958,1,
+17650,Uralla,New South Wales,1,6179,835,1,
+17750,Wagga Wagga,New South Wales,1,69108,9061,1,
+17850,Walcha,New South Wales,1,2989,359,0,"Below 5,000 total-population guardrail"
+17900,Walgett,New South Wales,1,5437,762,1,
+17950,Warren,New South Wales,1,2606,347,0,"Below 5,000 total-population guardrail"
+18020,Warrumbungle,New South Wales,1,9246,1186,1,
+18050,Waverley,New South Wales,1,73345,7356,1,
+18100,Weddin,New South Wales,1,3558,431,0,"Below 5,000 total-population guardrail"
+18200,Wentworth,New South Wales,1,7982,935,1,
+18250,Willoughby,New South Wales,1,80520,10594,1,
+18350,Wingecarribee,New South Wales,1,53840,6300,1,
+18400,Wollondilly,New South Wales,1,62080,7970,1,
+18450,Wollongong,New South Wales,1,224327,25880,1,
+18500,Woollahra,New South Wales,1,55218,5868,1,
+18710,Yass Valley,New South Wales,1,17663,2494,1,
+19399,Unincorporated NSW,New South Wales,1,975,128,0,Residual unincorporated-area record excluded from national comparison
+20110,Alpine,Victoria,1,13236,1502,1,
+20260,Ararat,Victoria,1,11732,1243,1,
+20570,Ballarat,Victoria,1,122661,14220,1,
+20660,Banyule,Victoria,1,132770,15692,1,
+20740,Bass Coast,Victoria,1,44377,4101,1,
+20830,Baw Baw,Victoria,1,62784,7077,1,
+20910,Bayside (Vic.),Victoria,1,107164,14030,1,
+21010,Benalla,Victoria,1,14581,1512,1,
+21110,Boroondara,Victoria,1,178601,21988,1,
+21180,Brimbank,Victoria,1,198181,24185,1,
+21270,Buloke,Victoria,1,5887,704,1,
+21370,Campaspe,Victoria,1,37954,4774,1,
+21450,Cardinia,Victoria,1,133472,16695,1,
+21610,Casey,Victoria,1,414929,52428,1,
+21670,Central Goldfields,Victoria,1,13753,1483,1,
+21750,Colac Otway,Victoria,1,22209,2590,1,
+21830,Corangamite,Victoria,1,15712,2069,1,
+21890,Darebin,Victoria,1,162496,15674,1,
+22110,East Gippsland,Victoria,1,49669,5160,1,
+22170,Frankston,Victoria,1,145369,17608,1,
+22250,Gannawarra,Victoria,1,10311,1181,1,
+22310,Glen Eira,Victoria,1,163025,19270,1,
+22410,Glenelg,Victoria,1,19908,2192,1,
+22490,Golden Plains,Victoria,1,26620,3848,1,
+22620,Greater Bendigo,Victoria,1,126568,15337,1,
+22670,Greater Dandenong,Victoria,1,168684,18578,1,
+22750,Greater Geelong,Victoria,1,295052,31134,1,
+22830,Greater Shepparton,Victoria,1,69865,9096,1,
+22910,Hepburn,Victoria,1,17011,1734,1,
+22980,Hindmarsh,Victoria,1,5447,588,1,
+23110,Hobsons Bay,Victoria,1,97031,11529,1,
+23190,Horsham,Victoria,1,20252,2591,1,
+23270,Hume,Victoria,1,278885,34105,1,
+23350,Indigo,Victoria,1,17758,2192,1,
+23430,Kingston (Vic.),Victoria,1,168061,19272,1,
+23670,Knox,Victoria,1,163820,19192,1,
+23810,Latrobe (Vic.),Victoria,1,79112,9328,1,
+23940,Loddon,Victoria,1,7718,846,1,
+24130,Macedon Ranges,Victoria,1,54464,7212,1,
+24210,Manningham,Victoria,1,132912,14689,1,
+24250,Mansfield,Victoria,1,10979,1272,1,
+24330,Maribyrnong,Victoria,1,94672,8623,1,
+24410,Maroondah,Victoria,1,120247,14459,1,
+24600,Melbourne,Victoria,1,194481,6020,1,
+24650,Melton,Victoria,1,231567,26989,1,
+24700,Merri-bek,Victoria,1,189108,17671,1,
+24780,Mildura,Victoria,1,57309,7352,1,
+24850,Mitchell,Victoria,1,58459,6360,1,
+24900,Moira,Victoria,1,30866,3636,1,
+24970,Monash,Victoria,1,211833,21892,1,
+25060,Moonee Valley,Victoria,1,130501,13982,1,
+25150,Moorabool,Victoria,1,40472,5050,1,
+25340,Mornington Peninsula,Victoria,1,172217,20263,1,
+25430,Mount Alexander,Victoria,1,20939,2068,1,
+25490,Moyne,Victoria,1,17760,2384,1,
+25620,Murrindindi,Victoria,1,15648,1606,1,
+25710,Nillumbik,Victoria,1,63797,8842,1,
+25810,Northern Grampians,Victoria,1,11804,1216,1,
+25900,Port Phillip,Victoria,1,114434,8126,1,
+25990,Pyrenees,Victoria,1,7957,790,1,
+26080,Queenscliffe,Victoria,1,3317,219,0,"Below 5,000 total-population guardrail"
+26170,South Gippsland,Victoria,1,31109,3698,1,
+26260,Southern Grampians,Victoria,1,16483,1971,1,
+26350,Stonnington,Victoria,1,114789,9042,1,
+26430,Strathbogie,Victoria,1,11839,1090,1,
+26490,Surf Coast,Victoria,1,40265,4668,1,
+26610,Swan Hill,Victoria,1,20962,2732,1,
+26670,Towong,Victoria,1,6158,677,1,
+26700,Wangaratta,Victoria,1,30089,3696,1,
+26730,Warrnambool,Victoria,1,36255,4304,1,
+26810,Wellington,Victoria,1,46551,5387,1,
+26890,West Wimmera,Victoria,1,3915,461,0,"Below 5,000 total-population guardrail"
+26980,Whitehorse,Victoria,1,185256,20207,1,
+27070,Whittlesea,Victoria,1,259759,30872,1,
+27170,Wodonga,Victoria,1,44717,5880,1,
+27260,Wyndham,Victoria,1,347830,43082,1,
+27350,Yarra,Victoria,1,101356,6304,1,
+27450,Yarra Ranges,Victoria,1,160906,20348,1,
+27630,Yarriambiack,Victoria,1,6295,769,1,
+29399,Unincorporated Vic,Victoria,1,917,84,0,Residual unincorporated-area record excluded from national comparison
+30250,Aurukun,Queensland,1,1165,224,0,"Below 5,000 total-population guardrail"
+30300,Balonne,Queensland,1,4350,603,0,"Below 5,000 total-population guardrail"
+30370,Banana,Queensland,1,15144,2131,1,
+30410,Barcaldine,Queensland,1,2937,386,0,"Below 5,000 total-population guardrail"
+30450,Barcoo,Queensland,1,321,31,0,"Below 5,000 total-population guardrail"
+30760,Blackall Tambo,Queensland,1,1975,233,0,"Below 5,000 total-population guardrail"
+30900,Boulia,Queensland,1,489,68,0,"Below 5,000 total-population guardrail"
+31000,Brisbane,Queensland,1,1375301,148649,1,
+31750,Bulloo,Queensland,1,347,49,0,"Below 5,000 total-population guardrail"
+31820,Bundaberg,Queensland,1,107297,12125,1,
+31900,Burdekin,Queensland,1,17220,2086,1,
+31950,Burke,Queensland,1,449,41,0,"Below 5,000 total-population guardrail"
+32080,Cairns,Queensland,1,179334,23296,1,
+32250,Carpentaria,Queensland,1,2247,308,0,"Below 5,000 total-population guardrail"
+32260,Cassowary Coast,Queensland,1,30666,3690,1,
+32270,Central Highlands (Qld),Queensland,1,29481,4533,1,
+32310,Charters Towers,Queensland,1,12088,1838,1,
+32330,Cherbourg,Queensland,1,1289,306,0,"Below 5,000 total-population guardrail"
+32450,Cloncurry,Queensland,1,3907,403,0,"Below 5,000 total-population guardrail"
+32500,Cook,Queensland,1,4876,558,0,"Below 5,000 total-population guardrail"
+32600,Croydon,Queensland,1,273,35,0,"Below 5,000 total-population guardrail"
+32750,Diamantina,Queensland,1,265,26,0,"Below 5,000 total-population guardrail"
+32770,Doomadgee,Queensland,1,1484,324,0,"Below 5,000 total-population guardrail"
+32810,Douglas,Queensland,1,13169,1339,1,
+33100,Etheridge,Queensland,1,727,82,0,"Below 5,000 total-population guardrail"
+33200,Flinders (Qld),Queensland,1,1545,161,0,"Below 5,000 total-population guardrail"
+33220,Fraser Coast,Queensland,1,122924,12682,1,
+33360,Gladstone,Queensland,1,69046,9756,1,
+33430,Gold Coast,Queensland,1,691230,76438,1,
+33610,Goondiwindi,Queensland,1,10438,1523,1,
+33620,Gympie,Queensland,1,58487,6647,1,
+33800,Hinchinbrook,Queensland,1,11194,1228,1,
+33830,Hope Vale,Queensland,1,1073,184,0,"Below 5,000 total-population guardrail"
+33960,Ipswich,Queensland,1,268272,34850,1,
+33980,Isaac,Queensland,1,23186,3158,1,
+34420,Kowanyama,Queensland,1,1155,181,0,"Below 5,000 total-population guardrail"
+34530,Livingstone,Queensland,1,43668,5233,1,
+34570,Lockhart River,Queensland,1,702,131,0,"Below 5,000 total-population guardrail"
+34580,Lockyer Valley,Queensland,1,46058,5654,1,
+34590,Logan,Queensland,1,403515,51465,1,
+34710,Longreach,Queensland,1,3741,508,0,"Below 5,000 total-population guardrail"
+34770,Mackay,Queensland,1,129253,16908,1,
+34800,McKinlay,Queensland,1,850,90,0,"Below 5,000 total-population guardrail"
+34830,Mapoon,Queensland,1,494,64,0,"Below 5,000 total-population guardrail"
+34860,Maranoa,Queensland,1,13370,1843,1,
+34880,Mareeba,Queensland,1,24205,2836,1,
+35010,Moreton Bay,Queensland,1,532445,66784,1,
+35250,Mornington,Queensland,1,1099,215,0,"Below 5,000 total-population guardrail"
+35300,Mount Isa,Queensland,1,18585,2913,1,
+35600,Murweh,Queensland,1,4004,511,0,"Below 5,000 total-population guardrail"
+35670,Napranum,Queensland,1,952,180,0,"Below 5,000 total-population guardrail"
+35740,Noosa,Queensland,1,59551,6570,1,
+35760,North Burnett,Queensland,1,10562,1201,1,
+35780,Northern Peninsula Area,Queensland,1,2944,671,0,"Below 5,000 total-population guardrail"
+35790,Palm Island,Queensland,1,2335,456,0,"Below 5,000 total-population guardrail"
+35800,Paroo,Queensland,1,1724,221,0,"Below 5,000 total-population guardrail"
+36070,Pormpuraaw,Queensland,1,650,115,0,"Below 5,000 total-population guardrail"
+36150,Quilpie,Queensland,1,720,80,0,"Below 5,000 total-population guardrail"
+36250,Redland,Queensland,1,172831,20751,1,
+36300,Richmond,Queensland,1,788,87,0,"Below 5,000 total-population guardrail"
+36370,Rockhampton,Queensland,1,85794,11631,1,
+36510,Scenic Rim,Queensland,1,46947,5830,1,
+36580,Somerset,Queensland,1,26936,3592,1,
+36630,South Burnett,Queensland,1,35111,4282,1,
+36660,Southern Downs,Queensland,1,38064,4699,1,
+36720,Sunshine Coast,Queensland,1,381957,42134,1,
+36820,Tablelands,Queensland,1,27902,3498,1,
+36910,Toowoomba,Queensland,1,186276,24164,1,
+36950,Torres,Queensland,1,3490,684,0,"Below 5,000 total-population guardrail"
+36960,Torres Strait Island,Queensland,1,4298,976,0,"Below 5,000 total-population guardrail"
+37010,Townsville,Queensland,1,206260,26203,1,
+37300,Weipa,Queensland,1,4297,690,0,"Below 5,000 total-population guardrail"
+37310,Western Downs,Queensland,1,35452,5129,1,
+37340,Whitsunday,Queensland,1,41374,4406,1,
+37400,Winton,Queensland,1,1152,127,0,"Below 5,000 total-population guardrail"
+37550,Woorabinda,Queensland,1,1087,219,0,"Below 5,000 total-population guardrail"
+37570,Wujal Wujal,Queensland,1,301,52,0,"Below 5,000 total-population guardrail"
+37600,Yarrabah,Queensland,1,2669,578,0,"Below 5,000 total-population guardrail"
+40070,Adelaide,South Australia,1,30173,947,1,
+40120,Adelaide Hills,South Australia,1,42875,5414,1,
+40150,Adelaide Plains,South Australia,1,11736,1248,1,
+40220,Alexandrina,South Australia,1,31427,3041,1,
+40250,Anangu Pitjantjatjara Yankunytjatjara,South Australia,1,2668,390,0,"Below 5,000 total-population guardrail"
+40310,Barossa,South Australia,1,26817,3336,1,
+40430,Barunga West,South Australia,1,2688,264,0,"Below 5,000 total-population guardrail"
+40520,Berri Barmera,South Australia,1,10758,1336,1,
+40700,Burnside,South Australia,1,48257,5924,1,
+40910,Campbelltown (SA),South Australia,1,58826,6044,1,
+41010,Ceduna,South Australia,1,3757,456,0,"Below 5,000 total-population guardrail"
+41060,Charles Sturt,South Australia,1,130841,12232,1,
+41140,Clare and Gilbert Valleys,South Australia,1,9467,1154,1,
+41190,Cleve,South Australia,1,1771,230,0,"Below 5,000 total-population guardrail"
+41330,Coober Pedy,South Australia,1,1526,166,0,"Below 5,000 total-population guardrail"
+41560,Copper Coast,South Australia,1,16601,1566,1,
+41750,Elliston,South Australia,1,1057,156,0,"Below 5,000 total-population guardrail"
+41830,Flinders Ranges,South Australia,1,1662,159,0,"Below 5,000 total-population guardrail"
+41960,Franklin Harbour,South Australia,1,1367,162,0,"Below 5,000 total-population guardrail"
+42030,Gawler,South Australia,1,27564,3003,1,
+42110,Goyder,South Australia,1,4141,479,0,"Below 5,000 total-population guardrail"
+42250,Grant,South Australia,1,9223,1149,1,
+42600,Holdfast Bay,South Australia,1,39683,3614,1,
+42750,Kangaroo Island,South Australia,1,5212,532,1,
+43080,Karoonda East Murray,South Australia,1,1026,121,0,"Below 5,000 total-population guardrail"
+43220,Kimba,South Australia,1,1064,165,0,"Below 5,000 total-population guardrail"
+43360,Kingston (SA),South Australia,1,2420,225,0,"Below 5,000 total-population guardrail"
+43650,Light,South Australia,1,17317,2395,1,
+43710,Lower Eyre,South Australia,1,6268,825,1,
+43790,Loxton Waikerie,South Australia,1,11971,1443,1,
+44000,Maralinga Tjarutja,South Australia,1,102,9,0,"Below 5,000 total-population guardrail"
+44060,Marion,South Australia,1,101229,10119,1,
+44210,Mid Murray,South Australia,1,9674,890,1,
+44340,Mitcham,South Australia,1,71267,8515,1,
+44550,Mount Barker,South Australia,1,45111,5018,1,
+44620,Mount Gambier,South Australia,1,28057,3585,1,
+44830,Mount Remarkable,South Australia,1,2861,297,0,"Below 5,000 total-population guardrail"
+45040,Murray Bridge,South Australia,1,23539,2704,1,
+45090,Naracoorte Lucindale,South Australia,1,8930,1183,1,
+45120,Northern Areas,South Australia,1,4688,546,0,"Below 5,000 total-population guardrail"
+45290,Norwood Payneham and St Peters,South Australia,1,40845,3747,1,
+45340,Onkaparinga,South Australia,1,184827,21822,1,
+45400,Orroroo Carrieton,South Australia,1,884,95,0,"Below 5,000 total-population guardrail"
+45540,Peterborough,South Australia,1,1701,161,0,"Below 5,000 total-population guardrail"
+45680,Playford,South Australia,1,115790,14523,1,
+45890,Port Adelaide Enfield,South Australia,1,143022,14193,1,
+46090,Port Augusta,South Australia,1,14469,1898,1,
+46300,Port Lincoln,South Australia,1,15065,1926,1,
+46450,Port Pirie,South Australia,1,17664,2230,1,
+46510,Prospect,South Australia,1,23459,2598,1,
+46670,Renmark Paringa,South Australia,1,10274,1160,1,
+46860,Robe,South Australia,1,1621,156,0,"Below 5,000 total-population guardrail"
+46970,Roxby Downs,South Australia,1,4089,664,0,"Below 5,000 total-population guardrail"
+47140,Salisbury,South Australia,1,151019,19154,1,
+47290,Southern Mallee,South Australia,1,2013,246,0,"Below 5,000 total-population guardrail"
+47490,Streaky Bay,South Australia,1,2292,306,0,"Below 5,000 total-population guardrail"
+47630,Tatiara,South Australia,1,7088,917,1,
+47700,Tea Tree Gully,South Australia,1,105120,12252,1,
+47800,Coorong,South Australia,1,5627,651,1,
+47910,Tumby Bay,South Australia,1,2963,323,0,"Below 5,000 total-population guardrail"
+47980,Unley,South Australia,1,40731,4474,1,
+48050,Victor Harbor,South Australia,1,17457,1475,1,
+48130,Wakefield,South Australia,1,6993,930,1,
+48260,Walkerville,South Australia,1,8673,869,1,
+48340,Wattle Range,South Australia,1,12378,1506,1,
+48410,West Torrens,South Australia,1,66547,5993,1,
+48540,Whyalla,South Australia,1,21720,2864,1,
+48640,Wudinna,South Australia,1,1171,187,0,"Below 5,000 total-population guardrail"
+48750,Yankalilla,South Australia,1,6299,568,1,
+48830,Yorke Peninsula,South Australia,1,12242,1114,1,
+49399,Unincorporated SA,South Australia,1,3001,320,0,Residual unincorporated-area record excluded from national comparison
+50080,Albany,Western Australia,1,42308,5079,1,
+50210,Armadale,Western Australia,1,113003,13596,1,
+50250,Ashburton,Western Australia,1,8335,1046,1,
+50280,Augusta Margaret River,Western Australia,1,20170,2320,1,
+50350,Bassendean,Western Australia,1,17413,1838,1,
+50420,Bayswater,Western Australia,1,77383,7109,1,
+50490,Belmont,Western Australia,1,48221,4194,1,
+50560,Beverley,Western Australia,1,1815,187,0,"Below 5,000 total-population guardrail"
+50630,Boddington,Western Australia,1,1840,261,0,"Below 5,000 total-population guardrail"
+50770,Boyup Brook,Western Australia,1,2000,236,0,"Below 5,000 total-population guardrail"
+50840,Bridgetown-Greenbushes,Western Australia,1,5931,669,1,
+50910,Brookton,Western Australia,1,972,107,0,"Below 5,000 total-population guardrail"
+50980,Broome,Western Australia,1,19193,2825,1,
+51080,Broomehill-Tambellup,Western Australia,1,1117,165,0,"Below 5,000 total-population guardrail"
+51120,Bruce Rock,Western Australia,1,1073,127,0,"Below 5,000 total-population guardrail"
+51190,Bunbury,Western Australia,1,35730,3895,1,
+51260,Busselton,Western Australia,1,46184,5658,1,
+51310,Cambridge,Western Australia,1,32684,4429,1,
+51330,Canning,Western Australia,1,109028,12068,1,
+51400,Capel,Western Australia,1,20171,3070,1,
+51470,Carnamah,Western Australia,1,598,56,0,"Below 5,000 total-population guardrail"
+51540,Carnarvon,Western Australia,1,5655,723,1,
+51610,Chapman Valley,Western Australia,1,1725,279,0,"Below 5,000 total-population guardrail"
+51680,Chittering,Western Australia,1,7039,851,1,
+51710,Christmas Island,Western Australia,1,1889,211,0,"Below 5,000 total-population guardrail"
+51750,Claremont,Western Australia,1,13091,1353,1,
+51820,Cockburn,Western Australia,1,139499,14791,1,
+51860,Cocos (Keeling) Islands,Western Australia,1,626,79,0,"Below 5,000 total-population guardrail"
+51890,Collie,Western Australia,1,9561,1173,1,
+51960,Coolgardie,Western Australia,1,3878,493,0,"Below 5,000 total-population guardrail"
+52030,Coorow,Western Australia,1,1149,85,0,"Below 5,000 total-population guardrail"
+52100,Corrigin,Western Australia,1,1052,139,0,"Below 5,000 total-population guardrail"
+52170,Cottesloe,Western Australia,1,9201,1003,1,
+52240,Cranbrook,Western Australia,1,1167,160,0,"Below 5,000 total-population guardrail"
+52310,Cuballing,Western Australia,1,969,100,0,"Below 5,000 total-population guardrail"
+52380,Cue,Western Australia,1,234,6,0,"Below 5,000 total-population guardrail"
+52450,Cunderdin,Western Australia,1,1299,172,0,"Below 5,000 total-population guardrail"
+52520,Dalwallinu,Western Australia,1,1455,203,0,"Below 5,000 total-population guardrail"
+52590,Dandaragan,Western Australia,1,4089,344,0,"Below 5,000 total-population guardrail"
+52660,Dardanup,Western Australia,1,16280,2089,1,
+52730,Denmark,Western Australia,1,6858,829,1,
+52800,Derby-West Kimberley,Western Australia,1,8683,1339,1,
+52870,Donnybrook-Balingup,Western Australia,1,6698,730,1,
+52940,Dowerin,Western Australia,1,745,104,0,"Below 5,000 total-population guardrail"
+53010,Dumbleyung,Western Australia,1,715,75,0,"Below 5,000 total-population guardrail"
+53080,Dundas,Western Australia,1,735,63,0,"Below 5,000 total-population guardrail"
+53150,East Fremantle,Western Australia,1,8426,1080,1,
+53220,East Pilbara,Western Australia,1,10663,1069,1,
+53290,Esperance,Western Australia,1,14663,1992,1,
+53360,Exmouth,Western Australia,1,3670,378,0,"Below 5,000 total-population guardrail"
+53430,Fremantle,Western Australia,1,37542,2944,1,
+53570,Gingin,Western Australia,1,6585,583,1,
+53640,Gnowangerup,Western Australia,1,1295,166,0,"Below 5,000 total-population guardrail"
+53710,Goomalling,Western Australia,1,1002,133,0,"Below 5,000 total-population guardrail"
+53780,Gosnells,Western Australia,1,144475,17679,1,
+53800,Greater Geraldton,Western Australia,1,42882,5638,1,
+53920,Halls Creek,Western Australia,1,4245,643,0,"Below 5,000 total-population guardrail"
+53990,Harvey,Western Australia,1,32208,4337,1,
+54060,Irwin,Western Australia,1,3899,457,0,"Below 5,000 total-population guardrail"
+54130,Jerramungup,Western Australia,1,1248,157,0,"Below 5,000 total-population guardrail"
+54170,Joondalup,Western Australia,1,176595,21783,1,
+54200,Kalamunda,Western Australia,1,65007,8152,1,
+54280,Kalgoorlie-Boulder,Western Australia,1,31268,4422,1,
+54310,Karratha,Western Australia,1,25429,3731,1,
+54340,Katanning,Western Australia,1,4345,567,0,"Below 5,000 total-population guardrail"
+54410,Kellerberrin,Western Australia,1,1146,127,0,"Below 5,000 total-population guardrail"
+54480,Kent,Western Australia,1,539,77,0,"Below 5,000 total-population guardrail"
+54550,Kojonup,Western Australia,1,1985,280,0,"Below 5,000 total-population guardrail"
+54620,Kondinin,Western Australia,1,874,108,0,"Below 5,000 total-population guardrail"
+54690,Koorda,Western Australia,1,377,51,0,"Below 5,000 total-population guardrail"
+54760,Kulin,Western Australia,1,805,116,0,"Below 5,000 total-population guardrail"
+54830,Kwinana,Western Australia,1,57422,6332,1,
+54900,Lake Grace,Western Australia,1,1337,162,0,"Below 5,000 total-population guardrail"
+54970,Laverton,Western Australia,1,1441,97,0,"Below 5,000 total-population guardrail"
+55040,Leonora,Western Australia,1,1724,170,0,"Below 5,000 total-population guardrail"
+55110,Mandurah,Western Australia,1,106827,10928,1,
+55180,Manjimup,Western Australia,1,9621,1128,1,
+55250,Meekatharra,Western Australia,1,1292,121,0,"Below 5,000 total-population guardrail"
+55320,Melville,Western Australia,1,115945,12880,1,
+55390,Menzies,Western Australia,1,578,37,0,"Below 5,000 total-population guardrail"
+55460,Merredin,Western Australia,1,3365,433,0,"Below 5,000 total-population guardrail"
+55530,Mingenew,Western Australia,1,428,42,0,"Below 5,000 total-population guardrail"
+55600,Moora,Western Australia,1,2421,359,0,"Below 5,000 total-population guardrail"
+55670,Morawa,Western Australia,1,703,105,0,"Below 5,000 total-population guardrail"
+55740,Mosman Park,Western Australia,1,10482,1185,1,
+55810,Mount Magnet,Western Australia,1,706,82,0,"Below 5,000 total-population guardrail"
+55880,Mount Marshall,Western Australia,1,469,54,0,"Below 5,000 total-population guardrail"
+55950,Mukinbudin,Western Australia,1,594,72,0,"Below 5,000 total-population guardrail"
+56090,Mundaring,Western Australia,1,43577,4855,1,
+56160,Murchison,Western Australia,1,111,19,0,"Below 5,000 total-population guardrail"
+56230,Murray,Western Australia,1,21447,2349,1,
+56300,Nannup,Western Australia,1,1743,162,0,"Below 5,000 total-population guardrail"
+56370,Narembeen,Western Australia,1,853,87,0,"Below 5,000 total-population guardrail"
+56460,Narrogin,Western Australia,1,4989,677,0,"Below 5,000 total-population guardrail"
+56580,Nedlands,Western Australia,1,25711,3299,1,
+56620,Ngaanyatjarraku,Western Australia,1,1483,244,0,"Below 5,000 total-population guardrail"
+56730,Northam,Western Australia,1,12758,1507,1,
+56790,Northampton,Western Australia,1,3459,380,0,"Below 5,000 total-population guardrail"
+56860,Nungarin,Western Australia,1,265,25,0,"Below 5,000 total-population guardrail"
+56930,Peppermint Grove,Western Australia,1,1828,235,0,"Below 5,000 total-population guardrail"
+57000,Perenjori,Western Australia,1,665,67,0,"Below 5,000 total-population guardrail"
+57080,Perth,Western Australia,1,35673,957,1,
+57140,Pingelly,Western Australia,1,1108,127,0,"Below 5,000 total-population guardrail"
+57210,Plantagenet,Western Australia,1,5793,695,1,
+57280,Port Hedland,Western Australia,1,17743,2392,1,
+57350,Quairading,Western Australia,1,956,133,0,"Below 5,000 total-population guardrail"
+57420,Ravensthorpe,Western Australia,1,2309,225,0,"Below 5,000 total-population guardrail"
+57490,Rockingham,Western Australia,1,159934,20510,1,
+57630,Sandstone,Western Australia,1,118,0,0,"Below 5,000 total-population guardrail"
+57700,Serpentine-Jarrahdale,Western Australia,1,40531,4992,1,
+57770,Shark Bay,Western Australia,1,1194,107,0,"Below 5,000 total-population guardrail"
+57840,South Perth,Western Australia,1,48745,4418,1,
+57910,Stirling,Western Australia,1,254821,24802,1,
+57980,Subiaco,Western Australia,1,20038,1955,1,
+58050,Swan,Western Australia,1,187090,21317,1,
+58190,Tammin,Western Australia,1,395,65,0,"Below 5,000 total-population guardrail"
+58260,Three Springs,Western Australia,1,606,72,0,"Below 5,000 total-population guardrail"
+58330,Toodyay,Western Australia,1,5251,471,0,Below 500 junior-base guardrail
+58400,Trayning,Western Australia,1,304,36,0,"Below 5,000 total-population guardrail"
+58470,Upper Gascoyne,Western Australia,1,206,37,0,"Below 5,000 total-population guardrail"
+58510,Victoria Park,Western Australia,1,43333,3051,1,
+58540,Victoria Plains,Western Australia,1,825,104,0,"Below 5,000 total-population guardrail"
+58570,Vincent,Western Australia,1,42392,3309,1,
+58610,Wagin,Western Australia,1,1841,222,0,"Below 5,000 total-population guardrail"
+58680,Wandering,Western Australia,1,558,50,0,"Below 5,000 total-population guardrail"
+58760,Wanneroo,Western Australia,1,246147,31386,1,
+58820,Waroona,Western Australia,1,4665,515,0,"Below 5,000 total-population guardrail"
+58890,West Arthur,Western Australia,1,801,104,0,"Below 5,000 total-population guardrail"
+59030,Westonia,Western Australia,1,250,24,0,"Below 5,000 total-population guardrail"
+59100,Wickepin,Western Australia,1,721,107,0,"Below 5,000 total-population guardrail"
+59170,Williams,Western Australia,1,1081,136,0,"Below 5,000 total-population guardrail"
+59250,Wiluna,Western Australia,1,567,67,0,"Below 5,000 total-population guardrail"
+59310,Wongan-Ballidu,Western Australia,1,1357,192,0,"Below 5,000 total-population guardrail"
+59320,Woodanilling,Western Australia,1,495,61,0,"Below 5,000 total-population guardrail"
+59330,Wyalkatchem,Western Australia,1,493,42,0,"Below 5,000 total-population guardrail"
+59340,Wyndham-East Kimberley,Western Australia,1,8441,1183,1,
+59350,Yalgoo,Western Australia,1,356,20,0,"Below 5,000 total-population guardrail"
+59360,Yilgarn,Western Australia,1,1204,99,0,"Below 5,000 total-population guardrail"
+59370,York,Western Australia,1,3677,405,0,"Below 5,000 total-population guardrail"
+60210,Break O'Day,Tasmania,1,7230,617,1,
+60410,Brighton,Tasmania,1,20527,2824,1,
+60610,Burnie,Tasmania,1,20420,2511,1,
+60810,Central Coast (Tas.),Tasmania,1,23378,2702,1,
+61010,Central Highlands (Tas.),Tasmania,1,2603,267,0,"Below 5,000 total-population guardrail"
+61210,Circular Head,Tasmania,1,8286,1114,1,
+61410,Clarence,Tasmania,1,64119,7221,1,
+61510,Derwent Valley,Tasmania,1,11513,1434,1,
+61610,Devonport,Tasmania,1,26994,3310,1,
+61810,Dorset,Tasmania,1,7059,840,1,
+62010,Flinders (Tas.),Tasmania,1,924,80,0,"Below 5,000 total-population guardrail"
+62210,George Town,Tasmania,1,7420,847,1,
+62410,Glamorgan-Spring Bay,Tasmania,1,5352,352,0,Below 500 junior-base guardrail
+62610,Glenorchy,Tasmania,1,50450,5917,1,
+62810,Hobart,Tasmania,1,55859,5359,1,
+63010,Huon Valley,Tasmania,1,19893,2205,1,
+63210,Kentish,Tasmania,1,6866,768,1,
+63410,King Island,Tasmania,1,1647,184,0,"Below 5,000 total-population guardrail"
+63610,Kingborough,Tasmania,1,41628,5261,1,
+63810,Latrobe (Tas.),Tasmania,1,13264,1362,1,
+64010,Launceston,Tasmania,1,71341,8334,1,
+64210,Meander Valley,Tasmania,1,21739,2439,1,
+64610,Northern Midlands,Tasmania,1,14544,1561,1,
+64810,Sorell,Tasmania,1,18108,1973,1,
+65010,Southern Midlands,Tasmania,1,6987,794,1,
+65210,Tasman,Tasmania,1,2738,220,0,"Below 5,000 total-population guardrail"
+65410,Waratah-Wynyard,Tasmania,1,14916,1738,1,
+65610,West Coast,Tasmania,1,4320,491,0,"Below 5,000 total-population guardrail"
+65810,West Tamar,Tasmania,1,26136,2992,1,
+70200,Alice Springs,Northern Territory,1,30875,3799,1,
+70420,Barkly,Northern Territory,1,7448,1200,1,
+70540,Belyuen,Northern Territory,1,167,23,0,"Below 5,000 total-population guardrail"
+70620,Central Desert,Northern Territory,1,4170,777,0,"Below 5,000 total-population guardrail"
+70700,Coomalie,Northern Territory,1,1448,156,0,"Below 5,000 total-population guardrail"
+71000,Darwin,Northern Territory,1,90035,10199,1,
+71150,Darwin Waterfront Precinct,Northern Territory,1,352,17,0,"Below 5,000 total-population guardrail"
+71500,East Arnhem,Northern Territory,0,8130,,0,Age data unavailable
+71700,Groote Archipelago,Northern Territory,0,2095,,0,Age data unavailable
+72200,Katherine,Northern Territory,1,11282,1596,1,
+72300,Litchfield,Northern Territory,1,24849,2933,1,
+72330,MacDonnell,Northern Territory,1,6978,965,1,
+72800,Palmerston,Northern Territory,1,43193,6155,1,
+73600,Roper Gulf,Northern Territory,1,7597,1259,1,
+74050,Tiwi Islands,Northern Territory,1,2767,471,0,"Below 5,000 total-population guardrail"
+74550,Victoria Daly,Northern Territory,1,3356,533,0,"Below 5,000 total-population guardrail"
+74560,Wagait,Northern Territory,1,504,44,0,"Below 5,000 total-population guardrail"
+74660,West Arnhem,Northern Territory,1,7608,1221,1,
+74680,West Daly,Northern Territory,1,3495,758,0,"Below 5,000 total-population guardrail"
+79399,Unincorporated NT,Northern Territory,1,8207,1064,0,Residual unincorporated-area record excluded from national comparison
+89399,Unincorporated ACT,Australian Capital Territory,1,484630,53600,1,
+99399,Unincorp. Other Territories,Other Territories,1,2498,293,0,"Below 5,000 total-population guardrail"

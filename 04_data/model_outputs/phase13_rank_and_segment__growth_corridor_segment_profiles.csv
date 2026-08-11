@@ -1,0 +1,21 @@
+﻿growth_corridor,LGA_NAME,STATE,rank,opportunity_score,strategic_segment,market_score,youth_intensity,growth_momentum
+Melbourne outer growth belt,Wyndham,Victoria,1,99.26940639269407,Balanced High-Opportunity Market,98.08219178082192,100.0,99.72602739726028
+Melbourne outer growth belt,Melton,Victoria,2,98.21917808219177,Balanced High-Opportunity Market,96.16438356164385,98.9041095890411,99.58904109589042
+Western / south-west Sydney,Blacktown,New South Wales,3,97.21461187214612,Balanced High-Opportunity Market,99.17808219178083,94.24657534246576,98.21917808219179
+South East Queensland,Ipswich,Queensland,4,96.57534246575342,Balanced High-Opportunity Market,96.7123287671233,96.98630136986301,96.02739726027397
+Western / south-west Sydney,Camden,New South Wales,5,96.39269406392694,Balanced High-Opportunity Market,91.23287671232877,98.63013698630137,99.31506849315068
+Melbourne outer growth belt,Casey,Victoria,6,96.39269406392694,Balanced High-Opportunity Market,98.9041095890411,92.87671232876711,97.3972602739726
+South East Queensland,Logan,Queensland,7,95.89041095890411,Balanced High-Opportunity Market,98.63013698630137,92.6027397260274,96.43835616438356
+Melbourne outer growth belt,Hume,Victoria,8,95.57077625570776,Balanced High-Opportunity Market,96.98630136986301,92.05479452054794,97.67123287671232
+Western / south-west Sydney,The Hills,New South Wales,9,95.4794520547945,Balanced High-Opportunity Market,94.79452054794521,93.97260273972603,97.67123287671232
+Perth growth belt,Armadale,Western Australia,10,93.65296803652967,Mixed / Moderate Opportunity,84.93150684931507,98.08219178082192,97.94520547945206
+Western / south-west Sydney,Liverpool,New South Wales,11,93.0593607305936,Balanced High-Opportunity Market,96.43835616438356,90.41095890410958,92.32876712328768
+Western / south-west Sydney,Campbelltown (NSW),New South Wales,12,92.87671232876711,Balanced High-Opportunity Market,93.15068493150685,91.23287671232877,94.24657534246575
+Melbourne outer growth belt,Whittlesea,Victoria,13,92.28310502283104,Mixed / Moderate Opportunity,95.8904109589041,84.93150684931507,96.02739726027397
+Perth growth belt,Swan,Western Australia,14,91.91780821917808,Balanced High-Opportunity Market,92.05479452054794,86.3013698630137,97.39726027397259
+Perth growth belt,Wanneroo,Western Australia,15,91.87214611872146,Balanced High-Opportunity Market,95.61643835616438,89.04109589041096,90.95890410958904
+Melbourne outer growth belt,Cardinia,Victoria,17,91.5068493150685,Balanced High-Opportunity Market,87.3972602739726,91.78082191780823,95.34246575342465
+South East Queensland,Sunshine Coast,Queensland,27,81.9634703196347,Large Growth Market,97.53424657534246,57.26027397260274,91.0958904109589
+ACT,Unincorporated ACT,Australian Capital Territory,37,78.81278538812785,Large Growth Market,98.35616438356163,49.589041095890416,88.49315068493149
+Greater Geelong,Greater Geelong,Victoria,41,77.35159817351598,Large Growth Market,95.34246575342465,46.02739726027397,90.68493150684932
+South East Queensland,Brisbane,Queensland,48,75.06849315068493,Large Growth Market,100.0,38.35616438356164,86.84931506849315

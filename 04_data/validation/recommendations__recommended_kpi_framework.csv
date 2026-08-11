@@ -1,0 +1,11 @@
+﻿domain,metric,definition,cadence
+Acquisition,New registered participants,Count and rate of first-time registrations by area/age/gender,Seasonal
+Retention,Returning participant rate,Share of prior-season participants registered again,Annual
+Conversion,Blast-to-junior club conversion,Share of eligible Blast participants entering club cricket,Annual/cohort
+Capacity,Participants per playable cricket field-hour,Participant/team demand relative to allocated cricket field capacity,Seasonal
+Capacity,Unmet demand / waitlist,Players/teams unable to obtain suitable program/team/field access,Seasonal
+Access,Average travel distance/time to suitable program,Participant accessibility to age/gender-appropriate cricket,Annual
+Women & girls,Girls acquisition and retention,New and returning girls by age/pathway,Seasonal
+Multicultural inclusion,Registrations within priority communities,Direct registration data using responsibly collected demographic variables,Annual
+Program effectiveness,Pilot conversion rate,Participants who move from targeted activation into ongoing registration,Program + 12 month
+Growth alignment,Registration growth vs target-age population growth,Whether cricket participation is keeping pace with local demographic growth,Annual
